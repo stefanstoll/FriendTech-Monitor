@@ -15,3 +15,5 @@ Now you have 2 options:
 2) npm run monitorLowValue => sends webhook notifications for all new users, deposits
 
 Feel free to reach out to me @ imstefanstoll@gmail.com if anyone has any questions.
+
+Disclaimer: Please interact with the software at your own risk, I am not responsible for any financial loss or any downside caused by it. I cannot guarantee any results from it. The software is not an offering from me. I share no responsibility for the usage and outcome of this now open-sourced software.
