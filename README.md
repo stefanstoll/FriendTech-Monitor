@@ -12,7 +12,7 @@ To Setup:
 
 Now you have 2 options:
 1) npm run monitorHighValue => only sends discord webhook notifications for new users, deposits and buys with over 750 followers on Twitter
-2) npm run monitorLowValue => sends webhook notifications for all new users, deposits
+2) npm run monitorLowValue => sends webhook notifications for all new users, deposits, and buys
 
 Feel free to reach out to me @ imstefanstoll@gmail.com if anyone has any questions.
 
